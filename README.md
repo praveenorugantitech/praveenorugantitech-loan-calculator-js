@@ -1,7 +1,9 @@
 # Loan Calculator developed using JavaScript
  
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-javascript-projects/master/praveenorugantitech-loan-calculator/screenshot.PNG "Loan Calculator")
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-javascript-projects/master/praveenorugantitech-loan-calculator/screenshot1.PNG "Loan Calculator")
+<div>
+<img align="right" width="100%"  src="screenshot.PNG" />
+ <img align="right" width="100%"  src="screenshot1.PNG" />
+</div>
 
 
 [Live Demo](http://praveenorugantitech.github.io/praveenorugantitech-loan-calculator-js/Demo/)
